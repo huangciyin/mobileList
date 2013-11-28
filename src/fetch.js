@@ -48,8 +48,6 @@
                         });
                     }
 
-                    //console.log(pIndex);
-                    //console.log('原对象是', rs[pIndex])
                     rs[pIndex].series = rs[pIndex].series || [];
                     var series = {
                         name: title,
