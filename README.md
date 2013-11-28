@@ -12,6 +12,8 @@
 
 数据采集于：ZOL产品报价手机频道 http://detail.zol.com.cn/cell_phone_index/subcate57_list_1.html
 
+默认排名采集于：ZOL手机品牌排行榜 http://top.zol.com.cn/compositor/57/manu_attention.html
+
 ## 使用说明
 
 
